@@ -1,2 +1,2 @@
 # SingtelCardGame
-SingtelCardGame repository
+SingtelCardGame project repository
